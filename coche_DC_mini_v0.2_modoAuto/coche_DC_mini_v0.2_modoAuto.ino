@@ -17,7 +17,7 @@
 /*
  * NOTAS DE LA VERSION:
 
-x.x)- para un futuro, se puede mejorar la deteccion de movomiento poniendo mas sensores
+x.x)- para un futuro, se puede mejorar la deteccion de movimiento poniendo mas sensores
       y/o cambiando estos por PIR
   
 0.2)- Modo Auto modificado:
